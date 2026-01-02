@@ -50,10 +50,14 @@ https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=ja-JP&gl=JP
 
 ### 3) 必要ライブラリのインストール
 PowerShell（またはコマンドプロンプト）で以下を実行：
+
 pip install pyautogui
+
 pip install pytesseract
+
 pip install opencv-python
 
 ## 起動方法
 PowerShell（またはコマンドプロンプト）で以下を実行：
+
 python BPSR_chat_tool.py
