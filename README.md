@@ -41,6 +41,7 @@ UB Mannheim（ドイツ・マンハイム大学図書館）提供のインスト
 https://github.com/UB-Mannheim/tesseract/wiki
 
 **※本ツールはC:\Program Files\Tesseract-OCR\tesseract.exeにインストールされる前提となっています。**
+
 **※インストール時にadditional script dataとadditional language dataのjapaneseをチェックすること！**
 
 ### 2) Python のインストール（Microsoft Store）
